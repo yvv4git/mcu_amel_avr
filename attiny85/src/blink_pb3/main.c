@@ -1,8 +1,3 @@
-// main.c
-// 
-// A simple blinky program for ATtiny85
-// Connect red LED at pin 2 (PB3)
-
 #include <avr/io.h>
 #include <util/delay.h>
  

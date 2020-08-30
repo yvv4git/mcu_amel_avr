@@ -2,8 +2,6 @@
 // 
 // A simple blinky program for ATtiny85
 // Connect red LED at pin 2 (PB3)
-//
-// electronut.in
 
 #include <avr/io.h>
 #include <util/delay.h>
